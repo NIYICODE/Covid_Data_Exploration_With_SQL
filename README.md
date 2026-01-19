@@ -50,3 +50,22 @@ These questions move from **total magnitude → proportional severity → compar
 
 SQL served as a powerful tool for **direct computation**, avoiding premature visualization bias and keeping analysis grounded in epidemiological metrics.
 
+
+## **7. Insight Highlights (Quantitative Findings)**
+
+### **Global Scale of COVID-19**
+- **Total Confirmed Cases:** 765,237,628
+- **Total Deaths:** 6,928,131
+- **Global Death Percentage:** ~0.91%
+
+
+### **Country-Level Burden (Population Normalized)**
+When adjusted for population exposure:
+- **Top Impacted Countries:** Cyprus, San Marino, Austria
+
+This metric reframes severity beyond absolute counts, highlighting countries with smaller populations but high exposure rates.
+
+**_Screenshot Placeholder:_**  
+`![Country_Normalized_Exposure](ADD_IMAGE_HERE)`
+
+
