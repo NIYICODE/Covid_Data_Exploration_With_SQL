@@ -65,7 +65,37 @@ When adjusted for population exposure:
 
 This metric reframes severity beyond absolute counts, highlighting countries with smaller populations but high exposure rates.
 
-**_Screenshot Placeholder:_**  
-![Country_Normalized_Exposure](ADD_IMAGE_HERE)
+![Country_Normalized_Exposure](results/HighestInfected.png)
 
+
+
+### **Mortality Leaders (Absolute Death Counts)**
+- **Top Countries by Deaths:** United States, Brazil, Israel
+
+These countries also represent large population centers, showing the distinction between **exposure vs. mortality**.
+
+![Country_Mortality_Leaders](results/HighestDeath.png)
+
+
+## **Interpretation**
+
+The exploration surfaced several analytical themes:
+- **Magnitude ≠ Severity:** High case counts did not universally imply high mortality rates.
+- **Population Adjustment Matters:** Small countries can rank among the most affected when normalized.
+- **Regional Exposure:** Continents exhibited distinct epidemiological behaviors tied to mobility, density, and public health strategies.
+- **Temporal Depth:** The multi-year span allowed post-peak understanding rather than early snapshot bias.
+
+This demonstrates why pure totals underrepresent pandemic dynamics without contextual metrics.
+
+
+## **Key Takeaways**
+- SQL enables structured exploration of epidemiological data without visualization overhead.
+- Population normalization changes the ranking landscape dramatically.
+- Mortality and exposure metrics must be interpreted together to avoid misleading conclusions.
+- Geographic rollups reveal continent-level disparities masked at national scale.
+- Raw data → Insight requires careful metric selection, not just reporting.
+
+
+## **11. Summary**
+This project exemplifies the value of SQL as an analytical tool for real-world dataset interrogation. By computing totals, ratios, rankings, and population-adjusted metrics, the analysis transforms global COVID-19 data into epidemiological insight — reinforcing the role of structured data exploration in understanding complex public health events.
 
