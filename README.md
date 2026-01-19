@@ -66,6 +66,6 @@ When adjusted for population exposure:
 This metric reframes severity beyond absolute counts, highlighting countries with smaller populations but high exposure rates.
 
 **_Screenshot Placeholder:_**  
-`![Country_Normalized_Exposure](ADD_IMAGE_HERE)`
+![Country_Normalized_Exposure](ADD_IMAGE_HERE)
 
 
